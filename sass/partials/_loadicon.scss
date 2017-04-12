@@ -1,0 +1,4 @@
+
+#loadicon { position: relative; width: 30px; height: 30px; left: 50%; top: 15%; margin: 0 0 0 0; border: 8px solid #D9DDFC; border-left-color: transparent; border-right-color: transparent; border-radius: 50%; box-shadow: 0 0 25px 2px #D9DDFC; background-color: rgba( 50,118,177, 0.63 ); padding: 1.5%; display: none; }
+
+#loadicon::after{ display: block; content: " "; width: 9px; height: 9px; margin: 4px; border-radius: 50%; border: 6px solid #D9DDFC; border-left-color: transparent; border-right-color: transparent; }

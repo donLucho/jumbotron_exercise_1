@@ -1,0 +1,28 @@
+{
+  "name": "jumbotron_exercise_1",
+  "authors": [
+    "donLucho <donluchodev@outlook.com>"
+  ],
+  "description": "This is a date agnostic update to an existing Bootstrap project hoping that not too much has changed since 2014",
+  "main": "index.html",
+  "keywords": [
+    "html5",
+    "javascript",
+    "css3",
+    "gulp",
+    "sass",
+    "bower",
+    "bootstrap"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/donLucho/jumbotron_exercise_1#readme",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {}
+}

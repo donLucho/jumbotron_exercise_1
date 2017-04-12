@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SAILORS>
+	<CREWMEMBER>
+		<ID>0</ID>
+		<FIRSTNAME>Monkey D.</FIRSTNAME>
+		<LASTNAME>Luffy</LASTNAME>
+		<EPITHET>Straw Hat Luffy</EPITHET>
+		<OCCUPATION>Crew Captain</OCCUPATION>
+		<BOUNTY>400000000</BOUNTY>
+		<BLOG>http://onepiece.wikia.com/wiki/Monkey_D._Luffy</BLOG>
+		<URL>Luffy.jpg</URL>
+		<EPDEBUT>1</EPDEBUT>
+		<SHIP>Going Merry</SHIP>
+		<CREW>Mugiwara</CREW>
+		<CLUBMEMBER>first</CLUBMEMBER>
+	</CREWMEMBER>
+	<CREWMEMBER>
+		<ID>1</ID>
+		<FIRSTNAME>Roronoa</FIRSTNAME>
+		<LASTNAME>Zoro</LASTNAME>
+		<EPITHET>Pirate Hunter Roronoa Zoro</EPITHET>
+		<OCCUPATION>Swordsman</OCCUPATION>
+		<BOUNTY>120000000</BOUNTY>
+		<BLOG>http://onepiece.wikia.com/wiki/Roronoa_Zoro</BLOG>
+		<URL>Zoro.jpg</URL>
+		<EPDEBUT>2</EPDEBUT>
+		<SHIP>Going Merry</SHIP>
+		<CREW>Mugiwara</CREW>
+		<CLUBMEMBER>second</CLUBMEMBER>
+	</CREWMEMBER>
+	<CREWMEMBER>
+		<ID>2</ID>
+		<FIRSTNAME>Melanine</FIRSTNAME>
+		<LASTNAME>Nami</LASTNAME>
+		<EPITHET>Cat Burglar Nami</EPITHET>
+		<OCCUPATION>Navigator</OCCUPATION>
+		<BOUNTY>16000000</BOUNTY>
+		<BLOG>http://onepiece.wikia.com/wiki/Nami</BLOG>
+		<URL>Nami.jpg</URL>
+		<EPDEBUT>1</EPDEBUT>
+		<SHIP>Going Merry</SHIP>
+		<CREW>Mugiwara</CREW>
+		<CLUBMEMBER>third</CLUBMEMBER>
+	</CREWMEMBER>
+	<CREWMEMBER>
+		<ID>3</ID>
+		<FIRSTNAME>Usoppa</FIRSTNAME>
+		<LASTNAME>Sogekingu</LASTNAME>
+		<EPITHET>Sniper King Sogeking</EPITHET>
+		<OCCUPATION>Sniper</OCCUPATION>
+		<BOUNTY>30000000</BOUNTY>
+		<BLOG>http://onepiece.wikia.com/wiki/Usopp</BLOG>
+		<URL>Usopp.jpg</URL>
+		<EPDEBUT>8</EPDEBUT>
+		<SHIP>Going Merry</SHIP>
+		<CREW>Mugiwara</CREW>
+		<CLUBMEMBER>fourth</CLUBMEMBER>
+	</CREWMEMBER>
+	<CREWMEMBER>
+		<ID>4</ID>
+		<FIRSTNAME>Kuro Ashi</FIRSTNAME>
+		<LASTNAME>Sanji</LASTNAME>
+		<EPITHET>Black Leg Sanji</EPITHET>
+		<OCCUPATION>Chef</OCCUPATION>
+		<BOUNTY>77000000</BOUNTY>
+		<BLOG>http://onepiece.wikia.com/wiki/Sanji</BLOG>
+		<URL>Sanji.jpg</URL>
+		<EPDEBUT>20</EPDEBUT>
+		<SHIP>Going Merry</SHIP>
+		<CREW>Mugiwara</CREW>
+		<CLUBMEMBER>fifth</CLUBMEMBER>
+	</CREWMEMBER>
+	<CREWMEMBER>
+		<ID>5</ID>
+		<FIRSTNAME>Tony Tony</FIRSTNAME>
+		<LASTNAME>Chopper</LASTNAME>
+		<EPITHET>Cotton Candy Lover Chopper</EPITHET>
+		<OCCUPATION>Doctor</OCCUPATION>
+		<BOUNTY>50</BOUNTY>
+		<BLOG>http://onepiece.wikia.com/wiki/Tony_Tony_Chopper</BLOG>
+		<URL>Chopper.jpg</URL>
+		<EPDEBUT>81</EPDEBUT>
+		<SHIP>Going Merry</SHIP>
+		<CREW>Mugiwara</CREW>
+		<CLUBMEMBER>sixth</CLUBMEMBER>
+	</CREWMEMBER>
+	<CREWMEMBER>
+		<ID>6</ID>
+		<FIRSTNAME>Nico</FIRSTNAME>
+		<LASTNAME>Robin</LASTNAME>
+		<EPITHET>Devil Child Nico Robin</EPITHET>
+		<OCCUPATION>Archaelogist</OCCUPATION>
+		<BOUNTY>80000000</BOUNTY>
+		<BLOG>http://onepiece.wikia.com/wiki/Nico_Robin</BLOG>
+		<URL>Robin.jpg</URL>
+		<EPDEBUT>67</EPDEBUT>
+		<SHIP>Going Merry</SHIP>
+		<CREW>Mugiwara</CREW>
+		<CLUBMEMBER>seventh</CLUBMEMBER>
+	</CREWMEMBER>
+	<CREWMEMBER>
+		<ID>7</ID>
+		<FIRSTNAME>Cutty</FIRSTNAME>
+		<LASTNAME>Flam</LASTNAME>
+		<EPITHET>Cyborg Franky</EPITHET>
+		<OCCUPATION>Shipwright</OCCUPATION>
+		<BOUNTY>44000000</BOUNTY>
+		<BLOG>http://onepiece.wikia.com/wiki/Franky</BLOG>
+		<URL>Franky.jpg</URL>
+		<EPDEBUT>233</EPDEBUT>
+		<SHIP>Going Merry</SHIP>
+		<CREW>Mugiwara</CREW>
+		<CLUBMEMBER>eighth</CLUBMEMBER>
+	</CREWMEMBER>
+	<CREWMEMBER>
+		<ID>8</ID>
+		<FIRSTNAME>Brooke</FIRSTNAME>
+		<LASTNAME>Burukku</LASTNAME>
+		<EPITHET>Humming Brook</EPITHET>
+		<OCCUPATION>Musician</OCCUPATION>
+		<BOUNTY>33000000</BOUNTY>
+		<BLOG>http://onepiece.wikia.com/wiki/Brook</BLOG>
+		<URL>Brooke.jpg</URL>
+		<EPDEBUT>337</EPDEBUT>
+		<SHIP>Going Merry</SHIP>
+		<CREW>Mugiwara</CREW>
+		<CLUBMEMBER>ninth</CLUBMEMBER>
+	</CREWMEMBER>
+</SAILORS>
